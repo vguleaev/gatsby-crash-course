@@ -14,3 +14,5 @@ fields:
 - type: text
   name: author
   label: author
+pages:
+- src/pages/2019-20-12-from-forestry/from-forestry.md
