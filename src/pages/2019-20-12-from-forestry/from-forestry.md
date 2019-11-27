@@ -31,7 +31,7 @@ Open extracted folder and there you can see different executables:
 * nsqadmin.exe
 * .. _and many others but they are not so important for us_
 
-\##2. Run nsqlookupd
+##2. Run nsqlookupd
 Open extracted directory in shell/command terminal you prefer and run:
 
     ./nsqlookupd
