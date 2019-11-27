@@ -1,5 +1,5 @@
 ---
-path: forestry
+path: "/forestry"
 date: 2019-20-12
 title: from forestry
 author: Vlad
