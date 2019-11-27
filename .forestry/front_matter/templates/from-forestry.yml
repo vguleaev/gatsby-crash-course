@@ -1,0 +1,16 @@
+---
+label: from forestry
+hide_body: false
+fields:
+- type: text
+  name: path
+  label: path
+- type: text
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
