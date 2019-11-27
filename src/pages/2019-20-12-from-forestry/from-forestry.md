@@ -7,12 +7,12 @@ author: Vlad
 ---
 Hello dear coder, welcome to my tech articles series dedicated to _NSQ_. There are not so many tutorials about this technology so I decided to make one. Hope you enjoy!
 
-\##Why NSQ?
+##Why NSQ?
 [NSQ](https://nsq.io/) is a realtime distributed messaging platform written in Go and created by wellknown service bit.ly.
 
 It's plain and simple comparing to similar systems (like RabbitMQ), easy to use and has a good intuitive admin UI. If you have never used any Message Queue system before, NSQ is the best option to understand its principles.
 
-\##Concept of Message Queue:
+##Concept of Message Queue:
 Message Queue is an implementation of the [publisher/subscriber](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) architectural pattern which is used for communication between different parts (applications, services, etc) of your system.
 
 ![Alt text of image](https://www.cloudamqp.com/img/blog/thumb-mq.jpg "image")
